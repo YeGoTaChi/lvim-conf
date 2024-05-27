@@ -15,7 +15,7 @@ vim.cmd([[
 ]])
 
 -- Just trying this :
-lvim.transparent_window = true
+lvim.transparent_window = false
 
 vim.lsp.set_log_level("OFF")
 
